@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Kumbh Sans', sans-serif;
+    width: 1440px;
+    background-image: url(/images/bg-pattern-bottom.svg);
+    
+    background-image: url(/images/bg-pattern-top.svg);
+}
+.card {
+    background-image: url(/images/bg-pattern-card.svg);
+    color: red;
+}
